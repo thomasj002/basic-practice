@@ -1,0 +1,12 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>html document</title>
+  <link rel="stylesheet" href="devstylesheet.css">
+</head>
+<body>
+  <h1>Headline</h1>
+  <p>this is a paragraph <span>this is an inline element</span></p>
+
+</body>
+</html>

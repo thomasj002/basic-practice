@@ -1,0 +1,18 @@
+/*
+  Development only styles
+*/
+
+* {
+  font-family: sans-serif;
+  font-weight: 200;
+  color: #fefefe;
+  box-sizing: border-box;
+  outline: 1px dotted cyan;
+}
+body {
+  background-color: #333;
+}
+h1 {
+  transition: all 900ms ease-in;
+  display: inline-block;
+}
